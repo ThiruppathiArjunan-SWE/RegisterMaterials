@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterMaterials", "RegisterMaterials\RegisterMaterials.csproj", "{0EBEC24C-B286-458D-BF43-18CAB9B7DBD4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1FE4ECB1-9BBD-4535-A5AF-CACCF7662F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialRegistrationOracle", "MaterialRegistrationOracle\MaterialRegistrationOracle.csproj", "{D3314D65-D976-4A3B-B9DF-8D027013962B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBEC24C-B286-458D-BF43-18CAB9B7DBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBEC24C-B286-458D-BF43-18CAB9B7DBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBEC24C-B286-458D-BF43-18CAB9B7DBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBEC24C-B286-458D-BF43-18CAB9B7DBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE4ECB1-9BBD-4535-A5AF-CACCF7662F7E}.Debug|Any CPU.ActiveCfg = Debug
+		{1FE4ECB1-9BBD-4535-A5AF-CACCF7662F7E}.Release|Any CPU.ActiveCfg = Release
+		{D3314D65-D976-4A3B-B9DF-8D027013962B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3314D65-D976-4A3B-B9DF-8D027013962B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3314D65-D976-4A3B-B9DF-8D027013962B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3314D65-D976-4A3B-B9DF-8D027013962B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2EAD70-3906-4506-8D98-A0A93AC9CFB8}
+	EndGlobalSection
+EndGlobal
